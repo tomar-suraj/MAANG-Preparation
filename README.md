@@ -1,3 +1,3 @@
-<img src="https://user-images.githubusercontent.com/114793173/193415447-3952b48e-552a-4fd1-b8ae-88bf09149ad6.jpg" width="250" height="65">
+<img src="https://user-images.githubusercontent.com/114793173/193415447-3952b48e-552a-4fd1-b8ae-88bf09149ad6.jpg" width="250">
 
 Study plan for MAANG Interview preparation
