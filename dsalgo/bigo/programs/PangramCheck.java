@@ -1,4 +1,4 @@
-package dsalgo.bigo;
+package dsalgo.bigo.programs;
 
 import java.util.Arrays;
 import java.util.List;
