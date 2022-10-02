@@ -4,11 +4,8 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Link To Problem:- <a href="https://www.interviewbit.com/problems/pangram-check/">...</a>
- *
- *
  * Given a sentence represented as an array A of strings that contains all lowercase alphabets.
- * Chech if it is a pangram or not.
+ * Check if it is a pangram or not.
  * A pangram is a unique sentence in which every letter of the lowercase alphabet is used at least once.
  *
  * Problem Constraints
