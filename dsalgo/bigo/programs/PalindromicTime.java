@@ -39,8 +39,8 @@ public class PalindromicTime {
     }
 
 
-    public static int solve(String A) {
-        String[] arr = A.split(":");
+    public static int solve(String inputTime) {
+        String[] arr = inputTime.split(":");
         int hr = Integer.parseInt(arr[0]);
         int min = Integer.parseInt(arr[1]);
         int time = 0;
